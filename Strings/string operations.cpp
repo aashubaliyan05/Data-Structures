@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int main(){
     string string1;
     cout<<"\nEnter a String \n";
