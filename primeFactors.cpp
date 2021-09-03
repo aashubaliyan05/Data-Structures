@@ -24,6 +24,9 @@ void printPrimeFactors(int number){
                 number /= (i+2);
             }
     }
+    if(number>3){
+        cout<<number;
+    }
 
 }
 int main(){
